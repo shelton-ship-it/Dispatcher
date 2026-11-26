@@ -1,0 +1,173 @@
+{
+ "id": "at-ingresso-2026",
+ "tipo": "concurso",
+ "entidade": "Autoridade Tributária de Moçambique",
+ "sigla": "AT",
+ "titulo": "Concurso Público de Ingresso na Autoridade Tributária de Moçambique",
+ "nomeConcurso": "Concurso Público de Ingresso na Autoridade Tributária de Moçambique",
+ "destinatario": [
+  "EXMO. SENHOR PRESIDENTE DA AUTORIDADE",
+  "TRIBUTÁRIA DE MOÇAMBIQUE"
+ ],
+ "saudacao": "Exmo. Senhor Presidente da Autoridade Tributária de Moçambique",
+ "categorias": [
+  {
+   "id": "tt2",
+   "nome": "Técnico Tributário de 2.ª Classe",
+   "habilitacao": "12.ª classe ou equivalente",
+   "vagas": 350
+  },
+  {
+   "id": "at1",
+   "nome": "Auxiliar Tributário de 1.ª Classe (Guarda)",
+   "habilitacao": "10.ª classe ou equivalente; preferência para quem cumpriu o serviço militar",
+   "vagas": 300
+  }
+ ],
+ "campos": [
+  {
+   "id": "categoria",
+   "label": "Categoria",
+   "placeholder": "Conforme o aviso",
+   "opcoes": [
+    "Técnico Tributário de 2.ª Classe",
+    "Auxiliar Tributário de 1.ª Classe (Guarda)"
+   ]
+  },
+  {
+   "id": "area",
+   "label": "Área",
+   "placeholder": "Conforme o aviso (se aplicável)"
+  },
+  {
+   "id": "local",
+   "label": "Local de afectação pretendido",
+   "placeholder": "Ex.: Maputo",
+   "opcoes": [
+    "Cidade de Maputo",
+    "Maputo Província",
+    "Sofala",
+    "Manica",
+    "Cabo Delgado",
+    "Nampula",
+    "Niassa",
+    "Tete",
+    "Zambézia",
+    "Gaza",
+    "Inhambane",
+    "Serviços Centrais"
+   ]
+  }
+ ],
+ "declaracoes": [
+  "não me encontro na situação de aposentado(a)"
+ ],
+ "docs": [
+  {
+   "id": "requerimento",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": true,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Preenchemos o requerimento por ti. Depois: imprime, assina e reconhece a assinatura no notário."
+  },
+  {
+   "id": "honra",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Preenchemos a declaração. Imprime e assina."
+  },
+  {
+   "id": "cv",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Gerado a partir dos teus dados, com os dados da vaga."
+  },
+  {
+   "id": "bi",
+   "obrigatorio": true,
+   "autenticado": true,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Tem de ser fotocópia AUTENTICADA: leva o original e a fotocópia a um notário/cartório e depois digitaliza aqui a cópia já autenticada."
+  },
+  {
+   "id": "nuit",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Digitaliza o cartão ou documento do NUIT."
+  },
+  {
+   "id": "certificado",
+   "obrigatorio": true,
+   "autenticado": true,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Tem de ser fotocópia AUTENTICADA: leva o original e a fotocópia a um notário/cartório e depois digitaliza aqui a cópia já autenticada."
+  },
+  {
+   "id": "atestado",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Obtém o atestado numa unidade sanitária e digitaliza-o."
+  },
+  {
+   "id": "militar",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "Digitaliza o documento militar (cartão, cédula ou comprovativo de dispensa)."
+  },
+  {
+   "id": "requerimento_assinado",
+   "obrigatorio": true,
+   "autenticado": false,
+   "reconhecida": false,
+   "fonte": "Os concorrentes devem apresentar documentos como requerimento com assinatura reconhecida por notário, Curriculum Vitae, documento de identificação e certificado de habilitações autenticados, documento militar, atestado de aptidão física, N…",
+   "como": "A assinatura tem de ser reconhecida por notário: imprime, assina, leva ao notário e depois digitaliza o requerimento assinado.",
+   "nota": "Requerimento impresso, assinado e com assinatura reconhecida."
+  }
+ ],
+ "canal": "email",
+ "contacto": {
+  "email": "recrutamento@at.gov.mz"
+ },
+ "prazoIso": "2026-12-15",
+ "provincia": "Nacional",
+ "notas": "Lista de documentos baseada na imprensa (Diário Económico, MZNews, Emprego Moz); o PDF do aviso deve ser conferido. Os modelos de Requerimento e Declaração seguem os formulários do concurso. Vagas por local: Maputo Província 90, Cidade de Maputo 82, Sofala/Manica/Cabo Delgado 60 cada.",
+ "fonte": "https://www.at.gov.mz/informacoes/concursos",
+ "requisitos": [
+  "Autorizado por despacho do presidente da instituição de 29 de Outubro de 2026, o concurso destina-se ao preenchimento de 650 vagas: 350 Técnicos Tributários de 2.ª Classe, que exigem a 12.ª classe ou…"
+ ],
+ "etapas": [
+  "O concurso é composto por etapas sucessivas de caráter eliminatório",
+  "a candidatura e selecção",
+  "prova de conhecimento",
+  "avaliação curricular",
+  "entrevista profissional",
+  "formação básica",
+  "técnica e paramilitar",
+  "a integração."
+ ],
+ "entrega": [
+  "Assinatura reconhecida por notário: o requerimento. Imprime, assina, leva ao notário e digitaliza o resultado.",
+  "Fotocópia autenticada: o documento de identificação, o certificado de habilitações. Autentica no notário/cartório e digitaliza a cópia autenticada.",
+  "O atestado médico/aptidão física obtém-se numa unidade sanitária — não conseguimos gerá-lo.",
+  "Envia tudo num único email para recrutamento@at.gov.mz e guarda o comprovativo de submissão.",
+  "Prazo: até 15/12/2026. Confirma a data exacta no aviso."
+ ],
+ "revisao": {
+  "confianca": 1,
+  "avisos": [],
+  "origem": "regras"
+ }
+}

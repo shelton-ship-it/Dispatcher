@@ -1,0 +1,3 @@
+{ "name": "Despachante Digital", "short_name": "Despachante", "description": "Candidaturas prontas em minutos: documentos em PDF para concursos públicos e vagas de emprego.",
+  "start_url": "/", "display": "standalone", "background_color": "#F2F4F7", "theme_color": "#0B6B4F", "lang": "pt-MZ",
+  "icons": [ { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" } ] }
