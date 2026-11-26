@@ -1,0 +1,15 @@
+{
+  "name": "despachante-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env.local server.js",
+    "keys": "node scripts/gen-keys.mjs",
+    "seed:at": "node --env-file-if-exists=.env.local scripts/seed-at.mjs",
+    "analisar": "node scripts/analisar.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": { "express": "^4.21.2", "helmet": "^8.0.0" },
+  "engines": { "node": ">=20" }
+}
